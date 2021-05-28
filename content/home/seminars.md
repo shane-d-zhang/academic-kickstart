@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Seminars"
@@ -69,7 +69,12 @@ subtitle = ""
  css_class = ""
 +++
 
-- [Deformation & Tectonics](http://www.ipgp.jussieu.fr/~klinger/web_Yann/Detect_page/detect.html)
-- [Geophysics & Tectonics](https://sites.google.com/g.uky.edu/gtseminar/home?authuser=0)
-- [IGPP](https://igpp.ucsd.edu/newsevents)
-- [SZ4D](https://www.sz4d.org/news-events)
+Please let me know if you are aware of other geophysics seminars.
+
+- [CIG](https://geodynamics.org/cig/events/webinars/) ([YouTube](https://www.youtube.com/user/CIGeodynamics/))
+- [Geophysics & Tectonics](https://sites.google.com/g.uky.edu/gtseminar/home?authuser=0) ([YouTube](https://www.youtube.com/channel/UChCunKfO4RT2GKIRs84J2zg))
+- [IGPP](https://igpp.ucsd.edu/newsevents) ([YouTube](https://www.youtube.com/user/IGPPSIO))
+- [IRIS](https://www.iris.edu/hq/webinar/) ([YouTube](https://www.youtube.com/playlist?list=PLD4D607C2FA317E6D))
+- [researchseminars.org](https://researchseminars.org/)
+- [Stanford](https://earth.stanford.edu/geophysics/events)
+- [UTAustin](https://ig.utexas.edu/events/)
