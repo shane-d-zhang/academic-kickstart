@@ -42,9 +42,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GElReUYAAAAJ
-- icon: ads
+- icon: open-access
   icon_pack: ai
-  link: https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6042-177X
+  link: https://eartharxiv.org/discover?q=%22shane%20zhang%22&sort=-date_updated
+# - icon: ads
+#   icon_pack: ai
+#   link: https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6042-177X
 # - icon: zotero
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -66,21 +69,24 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ShaneZhang19
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/profile.php?id=100016282117150
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCcKRBYMI6rA986vLn9zfQKw
-- icon: spotify
-  icon_pack: fab
-  link: https://open.spotify.com/user/21i7f3nzufklnyh3j3rlzqtqq?si=z1W8eQvfRiiyB9hub7NguA
-- icon: goodreads
-  icon_pack: fab
-  link: https://www.goodreads.com/user/show/114366677-shane-zhang
-- icon: imdb
-  icon_pack: fab
-  link: https://www.imdb.com/user/ur111482242
+# - icon: facebook
+#   icon_pack: fab
+#   link: https://www.facebook.com/profile.php?id=100016282117150
+# - icon: youtube
+#   icon_pack: fab
+#   link: https://www.youtube.com/channel/UCcKRBYMI6rA986vLn9zfQKw
+# - icon: spotify
+#   icon_pack: fab
+#   link: https://open.spotify.com/user/21i7f3nzufklnyh3j3rlzqtqq?si=z1W8eQvfRiiyB9hub7NguA
+# - icon: goodreads
+#   icon_pack: fab
+#   link: https://www.goodreads.com/user/show/114366677-shane-zhang
+# - icon: imdb
+#   icon_pack: fab
+#   link: https://www.imdb.com/user/ur111482242
+- icon: rss
+  icon_pack: fas
+  link: https://shane-d-zhang.github.io/index.html
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
